@@ -1,0 +1,71 @@
+
+
+#aquote {
+	background: #FFCBC1;
+	border-radius: 22px;
+	color: #FF7F50;
+	width: 120px;
+	height: 110px;
+	font-size: 30px;
+	transition: all 2s;
+}
+
+#aquote:hover {
+	background-color: #ff6f69;
+    color: red;
+    transform: rotate(360deg);
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+
+
+#hquote {
+	background-color: #fad2fa;
+    color: #ff5ad6;
+	border-radius: 22px;
+	width: 120px;
+	height: 110px;
+	font-size: 30px;
+	transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+
+#hquote:hover{
+    background: #ff99e6;
+    color: #ff33cc;
+    transform: rotate(360deg);
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+
+#squote {
+	background:#D0D3D4;	
+	border-radius: 22px;
+	color: #808B96;
+	width: 130px;
+	height: 110px;
+	font-size: 30px;
+	transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+#squote:hover{
+	background: #A6ACAF;
+    color: #212F3C;
+    transform: rotate(360deg);
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+
+#restart{
+	border-radius: 22px;
+	background-color:rgb(209, 209, 255);
+	color:rgb(93, 93, 252) ;
+	height: 90px;
+	margin-top: 20px;
+	margin-right: 10px;
+	font-size: 25px;
+
+}
+
+
